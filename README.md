@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rockelivery
 
 To start your Phoenix server:
@@ -17,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# rockelivery
+>>>>>>> 0d57353e853a0f6ded0800f10e38da8e34442023
